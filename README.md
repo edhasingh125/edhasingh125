@@ -1,3 +1,31 @@
+<h1 align="center">Hi 👋, I'm Edha Singh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Explorer;Full+Stack+Builder;Creative+Problem+Solver" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edhasingh125&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edhasingh125&theme=tokyonight" height="170"/>
+</p>
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,java,git,github,figma" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" />
+</p>
+## 💡 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 # 💫 About Me:
 🔭 Currently building full-stack applications using the MERN stack  <br>👯 Open to collaborating on AI-driven apps and scalable web platforms  <br>🤝 Exploring real-world AI + Web integrations  <br>🌱 Learning advanced backend optimization & AI workflows  <br>💬 Ask me about React architecture, APIs, and database design  <br>⚡ Fun fact: I debug faster with music on 🎧  
 
