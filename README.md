@@ -43,17 +43,15 @@
 > 🔥 Growth Rate: Accelerating  
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edhasingh125&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=edhasingh125&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=edhasingh125&theme=midnight-purple&hide_border=true" height="180"/>
 </p>
-
 ---
 
 ## 💜 Dev Quote
