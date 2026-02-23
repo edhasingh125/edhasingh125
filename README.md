@@ -1,9 +1,8 @@
 <!-- Animated Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:b300ff&height=200&section=header&text=Edha%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<!-- Matrix Background GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQvGm5hK4M/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQvGm5hK4M/giphy.gif" width="600"/>
 </p>
 
 <!-- Animated Typing Intro -->
