@@ -43,18 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=edhasingh125&show_icons=true&theme=midnight-purple&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=edhasingh125&theme=midnight-purple&hide_border=true" />
-</p>
-
----
-
 ## 💜 Dev Quote
 
 <p align="center">
