@@ -31,8 +31,10 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edhasingh125&theme=react-dark&bg_color=0d1117&color=b300ff&line=6a00ff&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edhasingh125&theme=react-dark&bg_color=0d1117&color=b300ff&line=6a00ff&point=ffffff&hide_border=true" width="100%"/>
 </p>
+
+---
 
 ### 🧠 AI Coding Power Level
 
@@ -42,21 +44,24 @@
 
 ---
 
----
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edhasingh125&show_icons=true&theme=midnight-purple&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=edhasingh125&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=86400" height="180"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=edhasingh125&theme=midnight-purple&hide_border=true" height="180"/>
 </p>
 
-
+---
 
 ## 💜 Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&cache_seconds=86400"/>
+</p>
 
 ---
 
-<!-- Animated Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b300ff,100:6a00ff&height=120&section=footer"/>
