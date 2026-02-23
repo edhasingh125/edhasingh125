@@ -42,6 +42,16 @@
 > 🔥 Growth Rate: Accelerating  
 
 ---
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/edhasingh125/beathub-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edhasingh125&repo=beathub-backend&theme=midnight-purple&hide_border=true" />
+  </a>
+  <a href="https://github.com/edhasingh125/mom-birthday">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edhasingh125&repo=mom-birthday&theme=midnight-purple&hide_border=true" />
+  </a>
+</p>
 
 ## 💜 Dev Quote
 
