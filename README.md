@@ -32,20 +32,23 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edhasingh125&theme=react-dark&bg_color=0d1117&color=b300ff&line=6a00ff&point=ffffff&hide_border=true" />
-  > ██████████░░ 85% — AI Full-Stack Mode Activated 💜  
+</p>
+
+### 🧠 AI Coding Power Level
+
+> ██████████░░ 85% — AI Full-Stack Mode Activated 💜  
 > 🚀 Consistency: High  
 > 🔥 Growth Rate: Accelerating  
-</p>
+
+---
 
 ---
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edhasingh125&show_icons=true&theme=midnight-purple" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edhasingh125&theme=midnight-purple" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=edhasingh125&show_icons=true&theme=midnight-purple&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=edhasingh125&theme=midnight-purple&hide_border=true" height="180"/>
 </p>
-
----
 
 
 
