@@ -3,7 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:b300ff&height=200&section=header&text=Edha%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=B300FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Explorer;Purple+Cyber+Builder;Full+Stack+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=B300FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Explorer;Purple+Cyber+Builder;Full+Stack+Engineer" />
+  font=Fira+Code&size=26&duration=3000&pause=1000&color=B300FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Explorer;Purple+Cyber+Builder;Full+Stack+Engineer" />
 </h2>
 
 <br/>
@@ -55,16 +56,15 @@ Growth Rate: Accelerating 🔥
 
 ## 📊 GitHub Stats
 
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edhasingh125&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&cache_seconds=86400" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=edhasingh125&theme=midnight-purple&hide_border=true" height="180"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=edhasingh125&theme=midnight-purple&hide_border=true" height="180"/>
-</p>
+</p>>
 
 <br/>
 
