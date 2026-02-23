@@ -63,7 +63,7 @@ Growth Rate: Accelerating 🔥
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=edhasingh125&theme=midnight-purple&hide_border=true" height="180"/>
-</p>>
+</p>
 
 <br/>
 
