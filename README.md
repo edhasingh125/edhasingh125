@@ -28,12 +28,16 @@
 </p>
 
 ---
-### 🧠 AI Coding Power Level
+## 📈 Contribution Graph
 
-> █████████░░ 80% Full-Stack Mode Activated 💜  
-> 🚀 Building Consistently  
-> 🔥 Scaling Daily  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edhasingh125&theme=react-dark&bg_color=0d1117&color=b300ff&line=6a00ff&point=ffffff&hide_border=true" />
+  > ██████████░░ 85% — AI Full-Stack Mode Activated 💜  
+> 🚀 Consistency: High  
+> 🔥 Growth Rate: Accelerating  
+</p>
 
+---
 ## 📊 GitHub Stats
 
 <p align="center">
