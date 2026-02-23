@@ -44,14 +44,14 @@
 ---
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/edhasingh125/beathub-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edhasingh125&repo=beathub-backend&theme=midnight-purple&hide_border=true" />
-  </a>
-  <a href="https://github.com/edhasingh125/mom-birthday">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edhasingh125&repo=mom-birthday&theme=midnight-purple&hide_border=true" />
-  </a>
-</p>
+### 🎵 BeatHub Backend
+Node.js + Express backend for a music platform with REST APIs and MongoDB integration.
+
+### 🎨 The Lost Frame
+Creative web project focused on immersive UI/UX and storytelling design.
+
+### 🎂 Mom Birthday Website
+Interactive animated birthday website with custom UI effects.
 
 ## 💜 Dev Quote
 
