@@ -27,10 +27,25 @@
 
 ---
 
-## 📈 Contribution Activity
+## 🎮 Developer XP System
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edhasingh125&theme=react-dark&bg_color=0d1117&color=b300ff&line=6a00ff&point=ffffff&hide_border=true" width="95%" />
+
+💻 <strong>Level 7 — Purple Cyber Builder</strong>  
+🔥 <strong>320 XP This Month</strong>  
+⚡ <strong>Longest Streak:</strong> 5 Days  
+🚀 <strong>Focus:</strong> Full-Stack + AI Integration  
+
+<br><br>
+
+██████████░░░░ 65% to Level 8  
+
+<br><br>
+
+🏆 <strong>Badges Earned</strong>  
+<br>
+🐛 Bug Slayer &nbsp;&nbsp; 🔥 Consistency Mode &nbsp;&nbsp; 🚀 Builder &nbsp;&nbsp; 🎨 UI Crafter  
+
 </p>
 
 ---
